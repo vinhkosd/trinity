@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'UTM God Word';
+    src: url('UTMGodsWord.eot');
+    src: url('UTMGodsWord.eot?#iefix') format('embedded-opentype'),
+        url('UTMGodsWord.woff2') format('woff2'),
+        url('UTMGodsWord.woff') format('woff'),
+        url('UTMGodsWord.ttf') format('truetype'),
+        url('UTMGodsWord.svg#UTMGod\'sWord') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
